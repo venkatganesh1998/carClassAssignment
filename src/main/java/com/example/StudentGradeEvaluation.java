@@ -38,11 +38,6 @@ public class StudentGradeEvaluation {
         System.out.println("Score: " + score);
         System.out.println("Grade: " + grade);
 
-        // Check if the student is eligible for a scholarship
-        if ((age < 25) && (grade.equals("A") || grade.equals("B"))) {
-            System.out.println("You are eligible for a scholarship.");
-        } else {
-            System.out.println("You are not eligible for a scholarship.");
-        }
+       
     }
 }

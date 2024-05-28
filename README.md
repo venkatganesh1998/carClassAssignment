@@ -15,13 +15,12 @@ The student is eligible for a scholarship if they are under 25 years old and hav
 Print an appropriate message indicating if the student is eligible for a scholarship.
 
 ```
-Enter your name: John Doe
-Enter your age: 20
-Enter your exam score: 85
+Enter your name: Shashank
+Enter your age: 21
+Enter your exam score: 99
 
-Name: John Doe
-Age: 20
-Score: 85
-Grade: B
-You are eligible for a scholarship.
+Name: Shashank
+Age: 21
+Score: 99
+Grade: A
 ```

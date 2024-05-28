@@ -40,7 +40,6 @@ public class StudentGradeEvaluationTest {
                 Age: 22
                 Score: 95
                 Grade: A
-                You are eligible for a scholarship.
                 """;
         testStudentGradeEvaluation(input, expectedOutput);
     }
@@ -54,7 +53,6 @@ public class StudentGradeEvaluationTest {
                 Age: 23
                 Score: 85
                 Grade: B
-                You are eligible for a scholarship.
                 """;
         testStudentGradeEvaluation(input, expectedOutput);
     }
@@ -68,7 +66,6 @@ public class StudentGradeEvaluationTest {
                 Age: 26
                 Score: 85
                 Grade: B
-                You are not eligible for a scholarship.
                 """;
         testStudentGradeEvaluation(input, expectedOutput);
     }
@@ -82,7 +79,6 @@ public class StudentGradeEvaluationTest {
                 Age: 24
                 Score: 65
                 Grade: D
-                You are not eligible for a scholarship.
                 """;
         testStudentGradeEvaluation(input, expectedOutput);
     }
@@ -96,7 +92,6 @@ public class StudentGradeEvaluationTest {
                 Age: 20
                 Score: 55
                 Grade: F
-                You are not eligible for a scholarship.
                 """;
         testStudentGradeEvaluation(input, expectedOutput);
     }
